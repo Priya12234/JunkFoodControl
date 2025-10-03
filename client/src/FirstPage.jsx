@@ -58,7 +58,7 @@ const FirstPage = () => {
           </div>
         </div>
         <div className="flex justify-center mt-24 mb-10 sm:-mt-16 sm:justify-end sm:pr-32">
-          <button className="z-10 px-6 py-3 text-sm sm:text-base text-white bg-[#A44D4E] rounded-xl border-2 border-black shadow-md hover:scale-105 transition">
+          <button className="z-10 px-6 py-3 text-sm sm:text-base text-white bg-[#A44D4E] opacity-80 rounded-xl border-2 border-black shadow-md hover:scale-105 transition">
             Start Your Healthy Journey →
           </button>
         </div>
